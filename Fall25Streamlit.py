@@ -238,7 +238,7 @@ def show_flint():
 # ------------------ Main ------------------
 
 st.title("UM Fall 2025 Schedule Explorer")
-campus = st.selectbox("Select a Campus", ["Ann Arbor", "Dearborn", "Flint"])
+campus = st.selectbox("Select a Campus", ["Ann Arbor", "Dearborn", "Flint"], key="campus_selector")
 if campus == "Ann Arbor":
     show_ann_arbor()
 elif campus == "Dearborn":
