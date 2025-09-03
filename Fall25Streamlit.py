@@ -17,8 +17,14 @@ LEO_PREFIX   = "leo"  # case-insensitive prefix for lecturers
 # ------------------ Helpers ------------------
 @st.cache_data
 def load_buildings():
-    url = "https://raw.githubusercontent.com/umsi-amadaman/LEOcourseschedules/main/UMICHbuildings_dict.json"
-    return requests.get(url).json()
+    try:
+        url = "https://raw.githubusercontent.com/umsi-amadaman/LEOcourseschedules/main/UMICHbuildings_dict.json"
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        return response.json()
+    except (requests.exceptions.RequestException, ValueError) as e:
+        st.warning(f"Could not load buildings dictionary: {e}")
+        return {}
 
 @st.cache_data
 def load_monthly():
@@ -97,6 +103,20 @@ def show_ann_arbor():
     st.dataframe(day_df)
     st.write(f"Total classes: {len(day_df)}")
 
+    # Day / Subject filters
+    days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+    day_map = {"Monday": "Mon", "Tuesday": "Tues", "Wednesday": "Wed", "Thursday": "Thurs", "Friday": "Fri"}
+    sel_day = st.selectbox("Select Day", days, key="aa_day")
+    day_df = merged[merged[day_map[sel_day]].eq("Y")]
+
+    subj_opts = sorted(day_df["Subject"].dropna().unique())
+    sel_subj = st.selectbox("Select Subject", ["All"] + subj_opts, key="aa_subj")
+    if sel_subj != "All":
+        day_df = day_df[day_df["Subject"] == sel_subj]
+
+    st.dataframe(day_df)
+    st.write(f"Total classes: {len(day_df)}")
+
 # ------------------ Dearborn ------------------
 
 def show_dearborn():
@@ -139,10 +159,6 @@ def show_dearborn():
         "Term Code", "Seq Number", "Instructor ID"
     ]
     merged.drop(columns=[c for c in db_drop if c in merged.columns], inplace=True)
-
-    # Add location mapping
-    bdict = load_buildings()
-    merged["Location"] = merged["Bldg"].map(bdict).fillna(merged["Bldg"]) + " " + merged["Room"].fillna("")
 
     # Day / Subject filters
     days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
