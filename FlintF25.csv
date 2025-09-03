@@ -1,0 +1,549 @@
+﻿TERM,TERM_DESCRSHORT,CRSE_DESCR,SUBJECT,CATALOG_NUMBR,CLASS_INST_ID,CLASS_INSTR_NAME,CLASS_MTG_NBR,FACILITY_ID,FACILITY_DESC,MEETING_START_DT,MEETING_END_DT,MEETING_TIME_START,MEETING_TIME_END,MON,TUES,WED,THURS,FRI,SAT,SUN,JOBCODE_DESCR
+202610,Fall 2025,Prin of Financial Accounting,ACC,201,51877583,"Stephens, John",01,2307 RF,2307 RF,08/25/2025,12/05/2025,02:30PM,03:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Prin of Financial Accounting,ACC,201,68357020,"Sabolish, Jeffrey",W1,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Prin of Financial Accounting,ACC,201,68357020,"Sabolish, Jeffrey",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Prin of Financial Accounting,ACC,201,15216400,"Bohanon, Michael",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Prin of Managerial Accounting,ACC,202,40364756,"Novak, Lisa",01,2315 RF,2315 RF,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer I(w)
+202610,Fall 2025,Cost Accounting,ACC,320,15216400,"Bohanon, Michael",W3,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Cost Accounting,ACC,320,15216400,"Bohanon, Michael",W4,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Intermed Acctg I (Asset),ACC,321,68357020,"Sabolish, Jeffrey",F1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Accounting Info Systems I,ACC,421,40364756,"Novak, Lisa",W1,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Accounting Info Systems I,ACC,421,40364756,"Novak, Lisa",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Data Analytics for Accounting,ACC,426,40364756,"Novak, Lisa",F1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Accounting for Managers,ACC,521,15216400,"Bohanon, Michael",F1,2315 RF,2315 RF,08/25/2025,12/05/2025,07:00PM,08:15PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Data Analytics for Accounting,ACC,568,40364756,"Novak, Lisa",F1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Auditing & Assurance Services,ACC,575,68357020,"Sabolish, Jeffrey",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Arts Administration,ADM,501,08986072,"Boes, Taylor",H1,310 FH,310 FH,08/25/2025,12/05/2025,05:30PM,08:15PM,,,X,,,,,LEO Adjunct Lecturer(w)
+202610,Fall 2025,Cultivating Comms of Belonging,ADM,527,45679411,"Davis, Emma",H1,350 FH,350 FH,08/25/2025,12/05/2025,05:30PM,08:15PM,,X,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Ways of Seeing,ADM,561,49156406,"Silva, Michelle",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,African-American Music,AFA,313,50714933,"Thomason-Redus, Caen",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Admin of Long-Term Care,AGE,378,73337367,"Hilliker, Laurel",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Org & Admin of Long-Term Care,AGE,578,73337367,"Hilliker, Laurel",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Cultural Anthropology,ANT,100,40937776,"Vannier, Christian",01,212 FH,212 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to Cultural Anthropology,ANT,100,40937776,"Vannier, Christian",02,NR PCH,NR PCH,08/25/2025,12/05/2025,07:40AM,08:55AM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Intro to Cultural Anthropology,ANT,100,40937776,"Vannier, Christian",03,NR KHS,NR KHS,08/25/2025,12/05/2025,07:40AM,08:55AM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Human Origins And Prehistory,ANT,105,16249428,"Wright, Kathryn",01,527 FH,527 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer I(w)
+202610,Fall 2025,Human Origins And Prehistory,ANT,105,16249428,"Wright, Kathryn",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Human Origins And Prehistory,ANT,105,16249428,"Wright, Kathryn",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Beginning Standard Arabic I,ARB,111,23232317,"Daassa, Mohamed",01,NR MCC,NR MCC,08/25/2025,12/05/2025,10:00AM,11:50AM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Beginning Standard Arabic I,ARB,111,23232317,"Daassa, Mohamed",02,NR MCC,NR MCC,08/25/2025,12/05/2025,02:00PM,03:50PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Origins of Art,ARH,111,70552928,"Hess, Gerald",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Origins of Art,ARH,111,70552928,"Hess, Gerald",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Topics in Art History,ARH,299,70552928,"Hess, Gerald",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Ways of Seeing,ARH,401,49156406,"Silva, Michelle",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Ways of Seeing,ARH,501,49156406,"Silva, Michelle",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,2D Methods and Materials I,ART,116,55106513,"Zeiss, Rebecca",M1,4160 WSW,4160 WSW,08/25/2025,12/05/2025,02:30PM,05:15PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to the Visual Arts,ART,120,94168734,"Sikarskie, Amanda",01,4133 WSW,4133 WSW,08/25/2025,12/05/2025,07:40AM,08:55AM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to the Visual Arts,ART,120,94168734,"Sikarskie, Amanda",02,NR GBHS,NR GBHS,08/25/2025,12/05/2025,10:00AM,11:15AM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to the Visual Arts,ART,120,94168734,"Sikarskie, Amanda",03,NR GBHS,NR GBHS,08/25/2025,12/05/2025,12:15PM,01:30PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to the Visual Arts,ART,120,20691464,"Stevens, Holly",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to the Visual Arts,ART,120,20691464,"Stevens, Holly",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to the Visual Arts,ART,120,20691464,"Stevens, Holly",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Introduction to Printmaking,ART,122,55106513,"Zeiss, Rebecca",01,11TH FLOOR NBNK,11TH FLOOR NBNK,08/25/2025,12/05/2025,11:00AM,01:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Digital Media,ART,126,55106513,"Zeiss, Rebecca",02,307 FH,307 FH,08/25/2025,12/05/2025,05:15PM,08:00PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Visual Arts Methods/Materials,ART,130,91907052,"Dubrovich, Alla",01,4133 WSW,4133 WSW,08/25/2025,12/05/2025,08:00AM,10:45AM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,Drawing I,ART,131,91907052,"Dubrovich, Alla",01,11TH FLOOR NBNK,11TH FLOOR NBNK,08/25/2025,12/05/2025,02:30PM,05:15PM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,Drawing I,ART,131,91907052,"Dubrovich, Alla",02,11TH FLOOR NBNK,11TH FLOOR NBNK,08/25/2025,12/05/2025,11:00AM,01:45PM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,Design Thinking,ART,150,32182857,"Everett, Scott",01,618 NBNK,618 NBNK,08/25/2025,12/05/2025,11:00AM,12:15PM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Design Thinking,ART,150,32182857,"Everett, Scott",02,618 NBNK,618 NBNK,08/25/2025,12/05/2025,12:45PM,02:00PM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Design Thinking,ART,150,32182857,"Everett, Scott",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Design I:  Typographic Systems,ART,232,71481764,"Davis, Amy",M1,201 FH,201 FH,08/25/2025,12/05/2025,02:30PM,05:15PM,X,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Design II: Image Design,ART,252,71481764,"Davis, Amy",01,612 NBNK,612 NBNK,08/25/2025,12/05/2025,11:00AM,01:45PM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,Introduction To Theatre Design,ART,271,67143886,"Borton, Lisa",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,2D Methods and Materials II,ART,327,55106513,"Zeiss, Rebecca",01,11TH FLOOR NBNK,11TH FLOOR NBNK,08/25/2025,12/05/2025,11:00AM,01:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Painting From Life,ART,361,91907052,"Dubrovich, Alla",01,NR FIA,NR FIA,08/25/2025,12/05/2025,11:00AM,01:45PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Adv Studio Prob-2 Dimensional,ART,395,55106513,"Zeiss, Rebecca",99,STU,STU,08/25/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Internship in Art,ART,398,55106513,"Zeiss, Rebecca",99,FLD,FLD,08/25/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Introductory Laboratory,AST,100,57399788,"Stark, Michele",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Survey of Astronomy,AST,120,57399788,"Stark, Michele",01,169 MSB,169 MSB,08/25/2025,12/05/2025,01:55PM,03:45PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Integrated Learning,BAS,301,40469996,"Spivack, Shelley",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Introduction to Human Biology,BIO,104,49784872,"Viele, Dennis",01,109 MSB,109 MSB,08/25/2025,12/05/2025,07:40AM,09:00AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Introduction to Human Biology,BIO,104,49784872,"Viele, Dennis",02,109 MSB,109 MSB,08/25/2025,12/05/2025,07:40AM,09:00AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Introduction to Human Biology,BIO,104,68467899,"Morey, Jon",03,NR CARM,NR CARM,08/25/2025,12/05/2025,07:35AM,09:15AM,,X,,X,X,,,LEO Lecturer II(w)
+202610,Fall 2025,Organismal Biology,BIO,111,56786916,"Konieczny, Danielle",01,396 MSB,396 MSB,08/25/2025,12/05/2025,10:30AM,12:10PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Organismal Biology,BIO,111,56786916,"Konieczny, Danielle",02,396 MSB,396 MSB,08/25/2025,12/05/2025,10:30AM,12:10PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Organismal Biology,BIO,111,56786916,"Konieczny, Danielle",03,396 MSB,396 MSB,08/25/2025,12/05/2025,10:30AM,12:10PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Organismal Biology,BIO,111,63567557,"Yoder-Nowak, Teresa",04,396 MSB,396 MSB,08/25/2025,12/05/2025,08:30AM,10:10AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Organismal Biology,BIO,111,63567557,"Yoder-Nowak, Teresa",05,396 MSB,396 MSB,08/25/2025,12/05/2025,08:30AM,10:10AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Organismal Biology,BIO,111,56786916,"Konieczny, Danielle",06,396 MSB,396 MSB,08/25/2025,12/05/2025,12:30PM,02:10PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Organismal Biology,BIO,111,56786916,"Konieczny, Danielle",07,396 MSB,396 MSB,08/25/2025,12/05/2025,12:30PM,02:10PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Principles of Biology,BIO,113,96454110,"Slater, Jill",01,NR HESC,NR HESC,08/25/2025,12/05/2025,12:35PM,02:05PM,,X,,X,X,,,LEO Lecturer IV
+202610,Fall 2025,Principles of Biology,BIO,113,63864169,"Cossaboom, Russell",03,392 MSB,392 MSB,08/25/2025,12/05/2025,02:30PM,04:10PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Principles of Biology,BIO,113,63864169,"Cossaboom, Russell",04,392 MSB,392 MSB,08/25/2025,12/05/2025,02:30PM,04:10PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Microbiology Basics,BIO,135,71956329,"Striber, Kristin",01,302 MSB,302 MSB,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Microbiology Basics,BIO,135,71956329,"Striber, Kristin",02,302 MSB,302 MSB,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Microbiology Basics,BIO,135,08609604,"Ware, Margaret",M1,265 MSB,265 MSB,08/25/2025,12/05/2025,10:00AM,11:55AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Microbiology Basics,BIO,135,08609604,"Ware, Margaret",M2,265 MSB,265 MSB,08/25/2025,12/05/2025,01:00PM,02:55PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Microbiology Basics,BIO,135,08609604,"Ware, Margaret",M3,265 MSB,265 MSB,08/25/2025,12/05/2025,04:00PM,05:55PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Human Anatomy & Physiology I,BIO,167,17327094,"Yambrick, Nicole",01,107 MSB,107 MSB,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Human Anatomy & Physiology I,BIO,167,17327094,"Yambrick, Nicole",02,107 MSB,107 MSB,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Human Anatomy & Physiology I,BIO,167,46694848,"Smith, Melvin",03,390 MSB,390 MSB,08/25/2025,12/05/2025,09:00AM,10:15AM,,X,,X,,,,LEO Lecturer I(l)
+202610,Fall 2025,Human Anatomy & Physiology I,BIO,167,46694848,"Smith, Melvin",04,390 MSB,390 MSB,08/25/2025,12/05/2025,09:00AM,10:15AM,,X,,X,,,,LEO Lecturer I(l)
+202610,Fall 2025,Human Anatomy & Physiology I,BIO,167,79735130,"Miller, Jennifer",05,465 MSB,465 MSB,08/25/2025,12/05/2025,12:30PM,03:20PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Human Anatomy & Physiology I,BIO,167,79735130,"Miller, Jennifer",06,465 MSB,465 MSB,08/25/2025,12/05/2025,09:00AM,11:50AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Human Anatomy & Physiology I,BIO,167,17327094,"Yambrick, Nicole",07,107 MSB,107 MSB,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Human Anatomy/Physiology II,BIO,168,17327094,"Yambrick, Nicole",01,109 MSB,109 MSB,08/25/2025,12/05/2025,09:01AM,10:15AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Human Anatomy/Physiology II,BIO,168,17327094,"Yambrick, Nicole",03,109 MSB,109 MSB,08/25/2025,12/05/2025,09:01AM,10:15AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Biostatistics,BIO,301,49784872,"Viele, Dennis",01,296 MSB,296 MSB,08/25/2025,12/05/2025,12:30PM,02:10PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Comparative Anatomy,BIO,408,17327094,"Yambrick, Nicole",01,362 MSB,362 MSB,08/25/2025,12/05/2025,09:00AM,11:50AM,X,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Premedical Gross Anatomy,BIO,433,68467899,"Morey, Jon",01,325 MSB,325 MSB,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,Herpetology,BIO,456,63567557,"Yoder-Nowak, Teresa",01,362 MSB,362 MSB,08/25/2025,12/05/2025,12:50PM,04:10PM,X,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Forest Ecology,BIO,487,17163681,"Starking, Melissa",01,388 MSB,388 MSB,08/25/2025,12/05/2025,09:00AM,04:00PM,,,,,X,,,LEO Lecturer II(l)
+202610,Fall 2025,Comparative Anatomy,BIO,508,17327094,"Yambrick, Nicole",01,362 MSB,362 MSB,08/25/2025,12/05/2025,09:00AM,11:50AM,X,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Premedical Gross Anatomy,BIO,533,68467899,"Morey, Jon",01,325 MSB,325 MSB,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,Herpetology,BIO,556,63567557,"Yoder-Nowak, Teresa",01,362 MSB,362 MSB,08/25/2025,12/05/2025,12:50PM,04:10PM,X,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Forest Ecology,BIO,587,17163681,"Starking, Melissa",01,388 MSB,388 MSB,08/25/2025,12/05/2025,09:00AM,04:00PM,,,,,X,,,LEO Lecturer II(l)
+202610,Fall 2025,Independent Study,BIO,591,63567557,"Yoder-Nowak, Teresa",99,STU,STU,08/25/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Thesis Research in Biology,BIO,599,63567557,"Yoder-Nowak, Teresa",99,RES,RES,08/25/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Human Anatomy,BIO,634,88780025,"Mayhew, Earl",01,475 MSB,475 MSB,08/25/2025,12/05/2025,08:00AM,10:50AM,X,,X,,,,,LEO Intermittent Lecturer(l)
+202610,Fall 2025,Human Anatomy,BIO,634,88780025,"Mayhew, Earl",01,475 MSB,475 MSB,08/25/2025,12/05/2025,08:00AM,10:50AM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Human Anatomy,BIO,634,88780025,"Mayhew, Earl",02,475 MSB,475 MSB,08/25/2025,12/05/2025,11:30AM,02:20PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Human Anatomy,BIO,634,88780025,"Mayhew, Earl",02,475 MSB,475 MSB,08/25/2025,12/05/2025,11:30AM,02:20PM,X,,X,,,,,LEO Intermittent Lecturer(l)
+202610,Fall 2025,Human Anatomy,BIO,634,88780025,"Mayhew, Earl",03,475 MSB,475 MSB,08/25/2025,12/05/2025,03:00PM,05:50PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Human Anatomy,BIO,634,88780025,"Mayhew, Earl",03,475 MSB,475 MSB,08/25/2025,12/05/2025,03:00PM,05:50PM,X,,X,,,,,LEO Intermittent Lecturer(l)
+202610,Fall 2025,Human Anatomy,BIO,634,07347461,"Lazenby, Kerry",04,475 MSB,475 MSB,08/25/2025,12/05/2025,10:30AM,01:20PM,,X,,X,,,,LEO Lecturer I(l)
+202610,Fall 2025,Business Concepts and Careers,BUS,110,22644499,"Lake, Daniel",01,2307 RF,2307 RF,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Business Concepts and Careers,BUS,110,69731852,"Tuttle, Dale",W1,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Business Concepts and Careers,BUS,110,69731852,"Tuttle, Dale",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Business Concepts and Careers,BUS,110,69731852,"Tuttle, Dale",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to Business Applications,BUS,115,40364756,"Novak, Lisa",W4,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Contemp Legal Issues for BUS,BUS,250,36203198,"Witt, Michael",01,2331 RF,2331 RF,08/25/2025,12/05/2025,02:30PM,03:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Contemp Legal Issues for BUS,BUS,250,36203198,"Witt, Michael",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Special Topics Seminar,BUS,499,51877583,"Stephens, John",F1,2307 RF,2307 RF,08/25/2025,12/05/2025,04:00PM,05:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Special Topics Seminar,BUS,499,56925262,"Knesek, Gerald",W1,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Special Topics Seminar,BUS,499,56925262,"Knesek, Gerald",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Special Topics Seminar,BUS,499,56925262,"Knesek, Gerald",W4,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Special Topics Seminar,BUS,499,56925262,"Knesek, Gerald",W5,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Crisis Intervention,CDR,330,36524388,"Hilliker, Bernadette",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Chemistry and Society,CHM,135,77175819,"Morcos, Tayseer",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,General CHM for Hlth Sciences,CHM,150,77175819,"Morcos, Tayseer",01,388 MSB,388 MSB,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,General CHM for Hlth Sciences,CHM,150,91367916,"Ionina-Prasov, Marina",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,CHM Lab for Hlth Sciences,CHM,151,91367916,"Ionina-Prasov, Marina",01,359 MSB,359 MSB,08/25/2025,12/05/2025,01:00PM,03:00PM,,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,CHM Lab for Hlth Sciences,CHM,151,91367916,"Ionina-Prasov, Marina",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,General Chemistry Laboratory,CHM,261,91367916,"Ionina-Prasov, Marina",01,359 MSB,359 MSB,08/25/2025,12/05/2025,01:00PM,04:00PM,,X,,,,,,LEO Lecturer IV
+202610,Fall 2025,General Chemistry Laboratory,CHM,261,91367916,"Ionina-Prasov, Marina",02,359 MSB,359 MSB,08/25/2025,12/05/2025,01:00PM,04:00PM,,,,X,,,,LEO Lecturer IV
+202610,Fall 2025,General Chemistry Laboratory,CHM,261,65207574,"Herzog, Douglas",03,359 MSB,359 MSB,08/25/2025,12/05/2025,01:00PM,04:00PM,X,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro Quant Analysis Lab,CHM,263,77175819,"Morcos, Tayseer",01,367 MSB,367 MSB,08/25/2025,12/05/2025,01:00PM,04:00PM,,,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Intro Quant Analysis Lab,CHM,263,77175819,"Morcos, Tayseer",02,367 MSB,367 MSB,08/25/2025,12/05/2025,01:00PM,04:00PM,X,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Organic Chemistry Lab I,CHM,331,65207574,"Herzog, Douglas",01,559 MSB,559 MSB,08/25/2025,12/05/2025,01:00PM,05:00PM,,,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to Comp Info Sys I,CIS,128,59397772,"Galerneau, Quentin",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Database Management Software,CIS,152,59397772,"Galerneau, Quentin",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Information Systems,CIS,510,73334566,"Hart, John",01,104 MSB,104 MSB,08/25/2025,12/05/2025,06:30PM,08:10PM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Information Systems,CIS,510,73334566,"Hart, John",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Adv Data Warehousing & Bus Int,CIS,531,54918300,"Neji, Sana",01,104 MSB,104 MSB,08/25/2025,12/05/2025,10:30AM,12:10PM,X,,X,,,,,LEO Lecturer III
+202610,Fall 2025,Adv Data Warehousing & Bus Int,CIS,531,54918300,"Neji, Sana",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Technology Capstone II,CIT,485,69306138,"AbdulNour, Bashar",02,188 MSB,188 MSB,08/25/2025,12/05/2025,12:30PM,02:10PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to Digital Culture,COM,170,49156406,"Silva, Michelle",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Human Communication,COM,200,81801918,"Schrader, Brian",01,NR CHS,NR CHS,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Human Communication,COM,200,16740239,"Keller, Jenell",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,07:40AM,08:55AM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to Human Communication,COM,200,97100124,"Laux, Kimberly",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Argumentation & Debate,COM,204,81801918,"Schrader, Brian",01,NR HESC,NR HESC,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Argumentation & Debate,COM,204,81801918,"Schrader, Brian",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Public Speaking,COM,210,97100124,"Laux, Kimberly",01,350 FH,350 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Intro to Public Speaking,COM,210,49156406,"Silva, Michelle",02,NR CARM,NR CARM,08/25/2025,12/05/2025,07:40AM,08:55AM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Hist & Effects of Mass COM,COM,241,49156406,"Silva, Michelle",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,News Production,COM,256,33944272,"Atkinson, Scott",01,351 FH,351 FH,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Ethical Issues - Communication,COM,301,81801918,"Schrader, Brian",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Info Literacy in Mod Society,COM,309,81801918,"Schrader, Brian",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Communications in Business,COM,338,22644499,"Lake, Daniel",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Communications in Business,COM,338,16740239,"Keller, Jenell",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Communications in Business,COM,338,93816764,"Wilhelm, Stephanie",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Communications in Business,COM,338,16740239,"Keller, Jenell",W6, OASYNC, OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to the Criminal Justice,CRJ,185,09719315,"Jansen, Kenneth",02,NR CHS,NR CHS,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer I(w)
+202610,Fall 2025,Criminology,CRJ,302,85052926,"Mansley, Elizabeth",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Law and Society,CRJ,485,40469996,"Spivack, Shelley",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to Programming,CSC,122,59397772,"Galerneau, Quentin",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Using Unix Computer Sys,CSC,127,92213534,"Chaaben, Amal",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Fundamentals of Unix/Linux,CSC,137,92213534,"Chaaben, Amal",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Problem Solving & Progrming I,CSC,175,59397772,"Galerneau, Quentin",01,110 MSB,110 MSB,08/25/2025,12/05/2025,08:30AM,10:10AM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Problem Solving & Progrming I,CSC,175,52572480,"McBride, Brian",W2,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,12:30PM,02:10PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Prob Solving & Programming II,CSC,275,52572480,"McBride, Brian",02,106 MSB,106 MSB,08/25/2025,12/05/2025,08:30AM,10:10AM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Data Visualization,CSC,302,92213534,"Chaaben, Amal",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Advanced Software Engineering,CSC,580,73334566,"Hart, John",01,104 MSB,104 MSB,08/25/2025,12/05/2025,04:30PM,06:10PM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Advanced Software Engineering,CSC,580,73334566,"Hart, John",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Security Fundamentals I,CYB,101,54918300,"Neji, Sana",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Security Fundamentals I,CYB,101,52572480,"McBride, Brian",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Security Fundmntls II - AODC,CYB,200,73334566,"Hart, John",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Security Fundamentals II,CYB,202,73334566,"Hart, John",M1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to Dance and Soc Justice,DAN,100,50909764,"Freiman, Beth",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Yoga,DAN,102,50909764,"Freiman, Beth",01,DAN STUDIO NBNK,DAN STUDIO NBNK,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Culture of Hip Hop Dance,DAN,151,45679411,"Davis, Emma",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Culture of Hip Hop Dance,DAN,151,50909764,"Freiman, Beth",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Dance in World Cultures,DAN,204,50909764,"Freiman, Beth",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Theatrical Dance Forms,DAN,227,45679411,"Davis, Emma",01,DAN STUDIO NBNK,DAN STUDIO NBNK,08/25/2025,12/05/2025,04:00PM,05:15PM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,Managerial Finance for DI,DTI,515,54918300,"Neji, Sana",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,A Global Lens,ECE,100,03387835,"Ramos, Jodi",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Intermittent Lecturer
+202610,Fall 2025,Working with Families,ECE,235,52802338,"Tinholt, Winona",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Child Guidance: Learning Envr,ECE,240,03387835,"Ramos, Jodi",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,08:15PM,,,,X,,,,LEO Intermittent Lecturer
+202610,Fall 2025,Initial Field Early Child Edu,ECE,268,73366341,"Arakelian, Tamara",W1,INT,INT,08/25/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Young Childrn with Specl Needs,ECE,420,59233903,"Cook, Michele",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,08:15PM,X,,,,,,,LEO Lecturer II
+202610,Fall 2025,Prin of Econ (Macro-Econ),ECN,201,61860460,"Derbin, Edward",02,NR HESC,NR HESC,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Prin of Econ (Macro-Econ),ECN,201,25460029,"Schultes, Karen",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Prin of Econ (Macro-Econ),ECN,201,57550950,"DeFrance, William",W4,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Prin of Econ (Macro-Econ),ECN,201,57550950,"DeFrance, William",W5,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Prin of Econ (Macro-Econ),ECN,201,57550950,"DeFrance, William",W6,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Prin of Econ (Micro-Econ),ECN,202,29540848,"Nas, Paula",02,NR PCH,NR PCH,08/25/2025,12/05/2025,07:40AM,08:55AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Prin of Econ (Micro-Econ),ECN,202,48052930,"Lange, Eion",03,NR PCH,NR PCH,08/25/2025,12/05/2025,12:45PM,02:00PM,,X,,X,,,,LEO Lecturer I(w)
+202610,Fall 2025,Prin of Econ (Micro-Econ),ECN,202,25460029,"Schultes, Karen",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Prin of Econ (Micro-Econ),ECN,202,25460029,"Schultes, Karen",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Prin of Econ (Micro-Econ),ECN,202,25460029,"Schultes, Karen",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Prin of Econ (Micro-Econ),ECN,202,61860460,"Derbin, Edward",W4,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Prin of Econ (Micro-Econ),ECN,202,61860460,"Derbin, Edward",W5,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Prin of Econ (Micro-Econ),ECN,202,61860460,"Derbin, Edward",W6,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Intermediate Microeconomic Thr,ECN,315,29540848,"Nas, Paula",01,310 FH,310 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,The Principalship,EDL,510,55706580,"Grace, Shamarion",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Curriculum Development,EDL,529,42647161,"Magnuson, Amanda",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,01:00PM,05:00PM,,,,,,X,,LEO Lecturer II(l)
+202610,Fall 2025,Survy of Curr/Instr/Assessmnt,EDL,701,79541619,"Tunnicliff, Steven",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Pgrm Eval & Action Rsch,EDL,742,01755406,"Talison, Josha",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Probl Solving/College Students,EDM,100,32519324,"Kalfayan, Raena",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Probl Solving/College Students,EDM,100,32519324,"Kalfayan, Raena",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Integrated Language Arts 3-6,EDR,330,37056812,"Rogers, Alyssa",01,461 FH,461 FH,08/25/2025,12/05/2025,05:30PM,08:15PM,,,,X,,,,LEO Lecturer I(w)
+202610,Fall 2025,Literacy Assessment & Methods,EDR,440,76493011,"Hadding, Jamie",01,417 FH,417 FH,08/25/2025,12/05/2025,05:30PM,08:15PM,X,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,DEI in Secondary Classrooms,EDS,515,55706580,"Grace, Shamarion",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,04:30PM,05:45PM,,X,,,,,,LEO Lecturer III
+202610,Fall 2025,Tchg Numeracy Across the Curr,EDS,530,36099643,"Robertson, Brian",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Secondary Education Methods,EDS,560,55706580,"Grace, Shamarion",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,06:00PM,08:45PM,,X,,,,,,LEO Lecturer III
+202610,Fall 2025,Student Teaching: Full Time,EDS,668,49231140,"Marton, Kristy",99,INT,INT,08/25/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Student Teaching Seminar,EDS,699,49231140,"Marton, Kristy",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,08:15PM,,,,X,,,,LEO Lecturer I(w)
+202610,Fall 2025,Introduction to Engineering,EGR,102,58843144,"Lucas, Laura",01,292 MSB,292 MSB,08/25/2025,12/05/2025,12:30PM,02:10PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Computer-Aided Design,EGR,165,58843144,"Lucas, Laura",01,296 MSB,296 MSB,08/25/2025,12/05/2025,03:00PM,04:40PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Thermal Systems Laboratory,EGR,355,52637462,"Aslam, Mohammed",01,284 MSB,284 MSB,08/25/2025,12/05/2025,09:00AM,11:30AM,,,,,X,,,LEO Lecturer II
+202610,Fall 2025,Engineering Design II,EGR,466,69306138,"AbdulNour, Bashar",01,188 MSB,188 MSB,08/25/2025,12/05/2025,12:30PM,02:10PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Bldg Sust Comm: Tchng&SWK,EHS,220,30298848,"Macias, Laura",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to Entrepreneurship,EIM,240,69731852,"Tuttle, Dale",01,2307 RF,2307 RF,08/25/2025,12/05/2025,09:30AM,10:45AM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to Entrepreneurship,EIM,240,32330833,"Fields, Rita",W1,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Entrepreneurship,EIM,240,32330833,"Fields, Rita",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Entrep & New Venture Creation,EIM,440,36203198,"Witt, Michael",F1,2307 RF,2307 RF,08/25/2025,12/05/2025,11:00AM,12:15PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Col Reading & Learning Strat,ENG,100,39758702,"Vidaillet Gelderloos, Stephanie",01,350 FH,350 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Col Reading & Learning Strat,ENG,100,39758702,"Vidaillet Gelderloos, Stephanie",02,351 FH,351 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Col Reading & Learning Strat,ENG,100,39758702,"Vidaillet Gelderloos, Stephanie",03,351 FH,351 FH,08/25/2025,12/05/2025,02:30PM,03:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Col Reading & Learning Strat,ENG,100,39758702,"Vidaillet Gelderloos, Stephanie",04,310 FH,310 FH,08/25/2025,12/05/2025,05:30PM,06:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,College Writing Workshop,ENG,109,23565235,"Larsen Jr, Dave",01,250 FH,250 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,College Rhetoric,ENG,111,63845898,"Clark, Jay",01,350 FH,350 FH,08/25/2025,12/05/2025,08:00AM,09:15AM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,College Rhetoric,ENG,111,93553729,"Wiess, Janelle",05,350 FH,350 FH,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,College Rhetoric,ENG,111,93553729,"Wiess, Janelle",07,350 FH,350 FH,08/25/2025,12/05/2025,02:30PM,03:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,College Rhetoric,ENG,111,93553729,"Wiess, Janelle",08,558 FH,558 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,College Rhetoric,ENG,111,71605264,"Booms, Stephanie",09,301 FH,301 FH,08/25/2025,12/05/2025,02:30PM,03:45PM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,College Rhetoric,ENG,111,71605264,"Booms, Stephanie",10,301 FH,301 FH,08/25/2025,12/05/2025,02:30PM,03:45PM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,College Rhetoric,ENG,111,93816764,"Wilhelm, Stephanie",13,NR CHS,NR CHS,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,College Rhetoric,ENG,111,92067176,"Linden, David",14,NR CHS,NR CHS,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,College Rhetoric,ENG,111,92067176,"Linden, David",15,NR PCH,NR PCH,08/25/2025,12/05/2025,07:40AM,08:55AM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,College Rhetoric,ENG,111,91692881,"Martelle, Katie",16,NR PCH,NR PCH,08/25/2025,12/05/2025,12:45PM,02:00PM,X,,X,,,,,LEO Lecturer III
+202610,Fall 2025,College Rhetoric,ENG,111,63845898,"Clark, Jay",17,NR SHR,NR SHR,08/25/2025,12/05/2025,10:00AM,11:15AM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,College Rhetoric,ENG,111,71605264,"Booms, Stephanie",18,130 FH,130 FH,08/25/2025,12/05/2025,04:00PM,05:15PM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,College Rhetoric,ENG,111,09277550,"Thum, Maureen",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,College Rhetoric,ENG,111,09277550,"Thum, Maureen",W2,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,College Rhetoric,ENG,111,71219980,"Akers-Jordan, Cathy",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,College Rhetoric,ENG,111,71219980,"Akers-Jordan, Cathy",W4,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,College Rhetoric,ENG,111,71219980,"Akers-Jordan, Cathy",W5,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,College Rhetoric,ENG,111,71219980,"Akers-Jordan, Cathy",W6,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,College Rhetoric,ENG,111,71605264,"Booms, Stephanie",W7,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,College Rhetoric,ENG,111,63845898,"Clark, Jay",W8,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,College Rhetoric,ENG,111,63845898,"Clark, Jay",W9,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Critical Writing & Reading,ENG,112,23565235,"Larsen Jr, Dave",01,250 FH,250 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Critical Writing & Reading,ENG,112,93816764,"Wilhelm, Stephanie",03,558 FH,558 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Critical Writing & Reading,ENG,112,39758702,"Vidaillet Gelderloos, Stephanie",04,355 FH,355 FH,08/25/2025,12/05/2025,04:00PM,05:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Critical Writing & Reading,ENG,112,71605264,"Booms, Stephanie",05,NR GBHS,NR GBHS,08/25/2025,12/05/2025,10:00AM,11:15AM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Critical Writing & Reading,ENG,112,71605264,"Booms, Stephanie",06,NR GBHS,NR GBHS,08/25/2025,12/05/2025,12:15PM,01:30PM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Critical Writing & Reading,ENG,112,09277550,"Thum, Maureen",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,11:00AM,12:15PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Critical Writing & Reading,ENG,112,09277550,"Thum, Maureen",W2,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Critical Writing & Reading,ENG,112,93553729,"Wiess, Janelle",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Critical Writing & Reading,ENG,112,93553729,"Wiess, Janelle",W4,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Critical Writing & Reading,ENG,112,23565235,"Larsen Jr, Dave",W5,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Critical Writing & Reading,ENG,112,93816764,"Wilhelm, Stephanie",W7,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Critical Writing & Reading,ENG,112,23565235,"Larsen Jr, Dave",W8,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Critical Writing & Reading,ENG,112,63845898,"Clark, Jay",W9,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Reading Crime Fiction,ENG,157,91692881,"Martelle, Katie",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Ancient Mythology,ENG,207,63845898,"Clark, Jay",01,558 FH,558 FH,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,American Ethnic Literature,ENG,213,91692881,"Martelle, Katie",01,561 FH,561 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer III
+202610,Fall 2025,American Ethnic Literature,ENG,213,93816764,"Wilhelm, Stephanie",W1,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to Literary Analysis,ENG,241,91692881,"Martelle, Katie",01,310 FH,310 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer III
+202610,Fall 2025,News Production,ENG,256,33944272,"Atkinson, Scott",01,351 FH,351 FH,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Intro To Creative Writing,ENG,296,23565235,"Larsen Jr, Dave",01,250 FH,250 FH,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Communications in Business,ENG,338,22644499,"Lake, Daniel",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Communications in Business,ENG,338,16740239,"Keller, Jenell",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Communications in Business,ENG,338,93816764,"Wilhelm, Stephanie",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Communications in Business,ENG,338,16740239,"Keller, Jenell",W6, OASYNC, OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Literary Criticism and Theory,ENG,394,91692881,"Martelle, Katie",01,201 FH,201 FH,08/25/2025,12/05/2025,04:00PM,05:15PM,,X,,X,,,,LEO Lecturer III
+202610,Fall 2025,Env. Sci: Impacts & Solutions,ESS,102,14314512,"Green, Garry",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Env. Sci: Impacts & Solutions,ESS,102,14314512,"Green, Garry",W2,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Personal Finance,FIN,269,51877583,"Stephens, John",F1,2307 RF,2307 RF,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Investments,FIN,363,51877583,"Stephens, John",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Portfolio Theo & Sec Analysis,FIN,365,51877583,"Stephens, John",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Business Economics,FIN,551,90186786,"Iskandarani, Mariam",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Beginning French I,FRN,111,23232317,"Daassa, Mohamed",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Beginning French II,FRN,112,23232317,"Daassa, Mohamed",W2,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,06:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Physical Fitness,HCR,101,55142637,"Eisenbeis, Helen",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Basic Stress Mgt & Relaxation,HCR,107,79491426,"Landis, Theresa",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Basic Stress Mgt & Relaxation,HCR,107,54379946,"Shewalter, Amber",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Enhancd Mindflness/Stress Mgmt,HCR,117,79491426,"Landis, Theresa",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Responding to Emergencies,HCR,119,69633347,"Swanson, Christopher",M1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to Health Careers,HCR,201,55142637,"Eisenbeis, Helen",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to Health Careers,HCR,201,55142637,"Eisenbeis, Helen",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Health Sciences Applications,HCR,206,55142637,"Eisenbeis, Helen",02,NR HESC,NR HESC,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Health Care in the US,HCR,212,73337367,"Hilliker, Laurel",W4,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Hlth Info Sys for Adm,HCR,301,66211420,"Stafford, Leigh-Anne",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,The Ethics Of Health Care,HCR,304,74705454,"Trevithick, Bruce",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,The Ethics Of Health Care,HCR,304,55444360,"Brennan, Molly",W2,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,The Ethics Of Health Care,HCR,304,55444360,"Brennan, Molly",W3,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,The Ethics Of Health Care,HCR,304,55444360,"Brennan, Molly",W4,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,The Ethics Of Health Care,HCR,304,74705454,"Trevithick, Bruce",W5,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Cultural Competen in Hlth Care,HCR,362,60074963,"Tyus, Janee",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Cultural Competen in Hlth Care,HCR,362,60074963,"Tyus, Janee",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Cultural Competen in Hlth Care,HCR,362,60074963,"Tyus, Janee",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Hlthcare Marketing Strategies,HCR,364,30122627,"Stallings, LaRhonda",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(l)
+202610,Fall 2025,Hlthcare Marketing Strategies,HCR,364,30122627,"Stallings, LaRhonda",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(l)
+202610,Fall 2025,Legal Issues in Health Care,HCR,487,55444360,"Brennan, Molly",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Hlthcare Marketing Strategies,HCR,564,30122627,"Stallings, LaRhonda",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(l)
+202610,Fall 2025,Hlthcare Marketing Strategies,HCR,564,30122627,"Stallings, LaRhonda",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(l)
+202610,Fall 2025,Legal Issues in HCR,HCR,587,55444360,"Brennan, Molly",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Healthcare Simulation,HCS,501,21338681,"Streetman, Ronald",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Twentieth Century World Hist,HIS,114,11409254,"Thick, Matthew",01,NR CHS,NR CHS,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer I(w)
+202610,Fall 2025,Twentieth Century World Hist,HIS,114,11409254,"Thick, Matthew",02,NR PCH,NR PCH,08/25/2025,12/05/2025,07:40AM,08:55AM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Twentieth Century World Hist,HIS,114,62845004,"Havrilcsak, Gregory",03,NR SHR,NR SHR,08/25/2025,12/05/2025,10:00AM,11:15AM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Twentieth Century World Hist,HIS,114,23232317,"Daassa, Mohamed",04,NR HESC,NR HESC,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Twentieth Century World Hist,HIS,114,62845004,"Havrilcsak, Gregory",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,07:40AM,08:55AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Twentieth Century World Hist,HIS,114,62845004,"Havrilcsak, Gregory",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Am Civil War & Reconstruction,HIS,315,62845004,"Havrilcsak, Gregory",01,307 FH,307 FH,08/25/2025,12/05/2025,02:30PM,03:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Discovery Seminar I,HON,155,23232317,"Daassa, Mohamed",01,251 FH,251 FH,08/25/2025,12/05/2025,08:30AM,09:45AM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Discovery Seminar I,HON,155,23232317,"Daassa, Mohamed",02,212 FH,212 FH,08/25/2025,12/05/2025,02:30PM,03:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Advanced Discovery Seminar I,HON,355,23232317,"Daassa, Mohamed",01,251 FH,251 FH,08/25/2025,12/05/2025,08:30AM,09:45AM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Advanced Discovery Seminar I,HON,355,23232317,"Daassa, Mohamed",02,212 FH,212 FH,08/25/2025,12/05/2025,02:30PM,03:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Learning Sciences & Engagement,IES,100,94261919,"Deschamps, Paul",01,405 FH,405 FH,08/25/2025,12/05/2025,04:00PM,06:45PM,,X,,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to Education,IES,101,83482227,"Blakey, Linda",01,417 FH,417 FH,08/25/2025,12/05/2025,09:00AM,11:45AM,,,X,,,,,LEO Adjunct Lecturer(w)
+202610,Fall 2025,Child & Adolescent Development,IES,201,93085572,"Saunders, Tim",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,08:15PM,,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Learning & Assessment,IES,351,55706580,"Grace, Shamarion",01,417 FH,417 FH,08/25/2025,12/05/2025,09:30AM,12:15PM,,,,X,,,,LEO Lecturer III
+202610,Fall 2025,Science Content Support,IES,435,55706580,"Grace, Shamarion",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Student Teaching,IES,469,49231140,"Marton, Kristy",99,FLD,FLD,08/25/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,International Business,INB,385,12340158,"Lukoianove, Tatiana",F1,2331 RF,2331 RF,08/25/2025,12/05/2025,04:00PM,05:15PM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,International Business,INB,385,12340158,"Lukoianove, Tatiana",W1,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,International Business,INB,385,12340158,"Lukoianove, Tatiana",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,International Business,INB,385,12340158,"Lukoianove, Tatiana",W3,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,International Business,INB,385,12340158,"Lukoianove, Tatiana",W4,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Global Dimensions of Mgmnt,INB,585,12340158,"Lukoianove, Tatiana",F1,2331 RF,2331 RF,08/25/2025,12/05/2025,07:00PM,09:45PM,X,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Intro to Cultural Anthropology,INT,100,40937776,"Vannier, Christian",01,212 FH,212 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Twentieth Century World Hist,INT,114,62845004,"Havrilcsak, Gregory",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,World Regional Geography,INT,115,14314512,"Green, Garry",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,International Relations,INT,230,22048361,"Munroe, Derwin",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,12:30PM,01:45PM,,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Engineering Materials Lab,MEE,281,58843144,"Lucas, Laura",01,292 MSB,292 MSB,08/25/2025,12/05/2025,11:45AM,02:15PM,,,,,X,,,LEO Lecturer II(w)
+202610,Fall 2025,Machine Element Design,MEE,315,69306138,"AbdulNour, Bashar",01,316 MSB,316 MSB,08/25/2025,12/05/2025,02:30PM,04:10PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Fluid Mechanics,MEE,350,20046516,"Afshar, Shima",01,284 MSB,284 MSB,08/25/2025,12/05/2025,10:30AM,12:10PM,X,,X,,,,,LEO Lecturer III
+202610,Fall 2025,Human Behavior in Organization,MGT,341,69731852,"Tuttle, Dale",F1,2331 RF,2331 RF,08/25/2025,12/05/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Human Behavior in Organization,MGT,341,47292898,"Cameron, Elizabeth",W2,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Human Behavior in Organization,MGT,341,47292898,"Cameron, Elizabeth",W3,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Human Behavior in Organization,MGT,341,47292898,"Cameron, Elizabeth",W4,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Human Behavior in Organization,MGT,341,47292898,"Cameron, Elizabeth",W5,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Human Resource Management,MGT,344,32330833,"Fields, Rita",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Contemporary Labor-Mgt Issues,MGT,346,47292898,"Cameron, Elizabeth",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Managing Projects & Teams,MGT,347,32330833,"Fields, Rita",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Business & Corporate Strategy,MGT,489,69731852,"Tuttle, Dale",F1,2307 RF,2307 RF,08/25/2025,12/05/2025,02:30PM,03:45PM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Talent Management,MGT,505,32330833,"Fields, Rita",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,International Management,MGT,583,12340158,"Lukoianove, Tatiana",F1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Principles of Marketing,MKT,330,22644499,"Lake, Daniel",F1,2325 RF,2325 RF,08/25/2025,12/05/2025,11:00AM,12:15PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Retail Management,MKT,437,22644499,"Lake, Daniel",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Retail Management,MKT,437,22644499,"Lake, Daniel",W2,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Liberal Arts Mathematics,MTH,105,16604288,"Murphy, Allen",01,422 MSB,422 MSB,08/25/2025,12/05/2025,09:00AM,10:15AM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Liberal Arts Mathematics,MTH,105,36099643,"Robertson, Brian",02,316 MSB,316 MSB,08/25/2025,12/05/2025,09:00AM,10:15AM,,X,,X,,,,LEO Lecturer I
+202610,Fall 2025,Liberal Arts Mathematics,MTH,105,16604288,"Murphy, Allen",05,422 MSB,422 MSB,08/25/2025,12/05/2025,02:30PM,03:45PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Liberal Arts Mathematics,MTH,105,70115334,"Daoud, Shawil",06,316 MSB,316 MSB,08/25/2025,12/05/2025,02:30PM,03:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Liberal Arts Mathematics,MTH,105,36099643,"Robertson, Brian",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Liberal Arts Mathematics,MTH,105,36099643,"Robertson, Brian",W2,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Liberal Arts Mathematics,MTH,105,36099643,"Robertson, Brian",W3,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Liberal Arts Mathematics,MTH,105,36099643,"Robertson, Brian",W4,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Liberal Arts Mathematics,MTH,105,36099643,"Robertson, Brian",W5,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Math Modeling w/ Coll Algebra,MTH,109,12180443,"Wade, James",01,412 MSB,412 MSB,08/25/2025,12/05/2025,09:30AM,10:45AM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Math Modeling w/ Coll Algebra,MTH,109,12180443,"Wade, James",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Math Modeling w/ Coll Algebra,MTH,109,86445935,"Campbell, Matthew",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Math Modeling w/ Coll Algebra,MTH,109,86445935,"Campbell, Matthew",W3,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,College Algebra,MTH,111,12180443,"Wade, James",01,412 MSB,412 MSB,08/25/2025,12/05/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,College Algebra,MTH,111,12180443,"Wade, James",02,412 MSB,412 MSB,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,College Algebra,MTH,111,17745340,"Herta, Jean",03,412 MSB,412 MSB,08/25/2025,12/05/2025,05:30PM,06:45PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,College Algebra,MTH,111,17745340,"Herta, Jean",04,412 MSB,412 MSB,08/25/2025,12/05/2025,04:00PM,05:15PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,College Algebra,MTH,111,86445935,"Campbell, Matthew",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Applied Calculus,MTH,118,16604288,"Murphy, Allen",01,329 MSB,329 MSB,08/25/2025,12/05/2025,10:30AM,12:10PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Applied Calculus,MTH,118,16604288,"Murphy, Allen",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Pre-Calculus Mathematics,MTH,120,72668889,"Boomer, Mary",01,422 MSB,422 MSB,08/25/2025,12/05/2025,04:30PM,06:10PM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Pre-Calculus Mathematics,MTH,120,70115334,"Daoud, Shawil",02,322 MSB,322 MSB,08/25/2025,12/05/2025,08:30AM,10:10AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Pre-Calculus Mathematics,MTH,120,70115334,"Daoud, Shawil",03,322 MSB,322 MSB,08/25/2025,12/05/2025,12:30PM,02:10PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Pre-Calculus Mathematics,MTH,120,70115334,"Daoud, Shawil",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,An Introduction to Music,MUS,100,39554494,"Coviak, James",01,111 FH,111 FH,08/25/2025,12/05/2025,10:00AM,11:15AM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,An Introduction to Music,MUS,100,30051686,"Price, Jeffrey",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Percussion Class,MUS,124,39554494,"Coviak, James",01,144 FH,144 FH,08/25/2025,12/05/2025,05:30PM,06:20PM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Keyboard Skills l,MUS,129,61206642,"Schmit, Daniel",01,134 FH,134 FH,08/25/2025,12/05/2025,08:00AM,08:50AM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Keyboard Skills III,MUS,131,61206642,"Schmit, Daniel",01,134 FH,134 FH,08/25/2025,12/05/2025,09:00AM,09:50AM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Aural Harmony : Level I,MUS,143,37003198,"Musch, Nathan",01,130 FH,130 FH,08/25/2025,12/05/2025,10:00AM,10:50AM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Mainstream Music Writing,MUS,145,09589763,"Urena, Raymond",01,134 FH,134 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer I(l)
+202610,Fall 2025,University Orchestra,MUS,203,42221088,"Forsleff, Matthew",01,144 FH,144 FH,08/25/2025,12/05/2025,04:00PM,05:15PM,,X,,X,,,,LEO Lecturer I
+202610,Fall 2025,Popular World Music,MUS,225,39554494,"Coviak, James",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Aural Harmony III,MUS,243,30051686,"Price, Jeffrey",01,110 FH,110 FH,08/25/2025,12/05/2025,10:00AM,10:50AM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Survey of Rock & Roll Music,MUS,245,34196776,"Wright, Joseph",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Survey of Rock & Roll Music,MUS,245,34196776,"Wright, Joseph",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Music History I,MUS,261,30051686,"Price, Jeffrey",01,110 FH,110 FH,08/25/2025,12/05/2025,08:00AM,08:55AM,X,,X,,X,,,LEO Lecturer II
+202610,Fall 2025,Chamber Music,MUS,302,50714933,"Thomason-Redus, Caen",01,PER,PER,08/25/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Chamber Music,MUS,302,39554494,"Coviak, James",02,PER,PER,08/25/2025,12/05/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,African-American Music,MUS,313,50714933,"Thomason-Redus, Caen",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,University Orchestra,MUS,403,42221088,"Forsleff, Matthew",01,144 FH,144 FH,08/25/2025,12/05/2025,04:00PM,05:15PM,,X,,X,,,,LEO Lecturer I
+202610,Fall 2025,Legal/Moral Decisions in HCR,NSC,180,18515589,"Dalton, Harold",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Legal/Moral Decisions in HCR,NSC,180,18515589,"Dalton, Harold",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Legal/Moral Decisions in HCR,NSC,180,17256550,"Turkelson, Timothy",W3,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Basic Nutrition for HCR Pract,NSC,209,18856294,"Athamanah, John",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Basic Nutrition for HCR Pract,NSC,209,21969465,"Uhley, Virginia",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Technology in Health Care,NSC,373,26579530,"Sanchez-Merritt, Lydia",W1,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Pharmacology for APP,NSC,504,88483541,"Pierzchalski-Goldstein, Lynn",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(l)
+202610,Fall 2025,Pharmacology for APP,NSC,504,88483541,"Pierzchalski-Goldstein, Lynn",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(l)
+202610,Fall 2025,Pharmacology for APP,NSC,504,88483541,"Pierzchalski-Goldstein, Lynn",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(l)
+202610,Fall 2025,Pharmacology for APP,NSC,504,88483541,"Pierzchalski-Goldstein, Lynn",W4,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(l)
+202610,Fall 2025,Pharmacology for APP,NSC,504,88483541,"Pierzchalski-Goldstein, Lynn",W5,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(l)
+202610,Fall 2025,Introduction to Prof. NUR,NUR,110,32306288,"Copeland, Tammara",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Introduction to Prof. NUR,NUR,110,32306288,"Copeland, Tammara",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Assess Comp-Based Learning I,NUR,117,65558654,"Filey, Kristopher",01,3148 WSW,3148 WSW,08/25/2025,12/05/2025,,,,,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Assess Comp-Based Learning I,NUR,117,65558654,"Filey, Kristopher",02,3148 WSW,3148 WSW,08/25/2025,12/05/2025,,,,,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Assess Comp-Based Learning I,NUR,117,65558654,"Filey, Kristopher",03,3148 WSW,3148 WSW,08/25/2025,12/05/2025,,,,,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Assess Comp-Based Learning I,NUR,117,65558654,"Filey, Kristopher",04,3148 WSW,3148 WSW,08/25/2025,12/05/2025,,,,,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Assess Comp-Based Learning I,NUR,117,65558654,"Filey, Kristopher",05,L/L,L/L,08/25/2025,12/05/2025,,,,,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Assess Comp-Based Learning I,NUR,117,65558654,"Filey, Kristopher",06,3148 WSW,3148 WSW,08/25/2025,12/05/2025,,,,,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Assess Comp-Based Learning I,NUR,117,65558654,"Filey, Kristopher",07,3148 WSW,3148 WSW,08/25/2025,12/05/2025,,,,,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Fundamentals of Nursing,NUR,220,65558654,"Filey, Kristopher",01,3157 WSW,3157 WSW,08/25/2025,12/05/2025,09:00AM,11:45AM,,X,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Fundamentals of Nursing,NUR,220,65558654,"Filey, Kristopher",02,3157 WSW,3157 WSW,08/25/2025,12/05/2025,09:00AM,11:45AM,,X,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Fundamentals of Nursing,NUR,220,65558654,"Filey, Kristopher",03,3157 WSW,3157 WSW,08/25/2025,12/05/2025,09:00AM,11:45AM,,X,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Fundamentals of Nursing,NUR,220,65558654,"Filey, Kristopher",04,3157 WSW,3157 WSW,08/25/2025,12/05/2025,09:00AM,11:45AM,,X,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Fundamentals of Nursing,NUR,220,65558654,"Filey, Kristopher",05,3157 WSW,3157 WSW,08/25/2025,12/05/2025,09:00AM,11:45AM,,X,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Fundamentals of Nursing,NUR,220,65558654,"Filey, Kristopher",06,3157 WSW,3157 WSW,08/25/2025,12/05/2025,09:00AM,11:45AM,,X,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Fundamentals of Nursing,NUR,220,65558654,"Filey, Kristopher",07,3157 WSW,3157 WSW,08/25/2025,12/05/2025,09:00AM,11:45AM,,X,,,,,,"ADJUNCT CLINICAL LECTURER, LEO Lecturer I"
+202610,Fall 2025,Theoretical Concepts-Prof NUR,NUR,300,18515589,"Dalton, Harold",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Theoretical Concepts-Prof NUR,NUR,300,18515589,"Dalton, Harold",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Research in Nursing,NUR,316,82466630,"Injic, Zorka",W5,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Case Mgt Princ & Theory,NUR,366,28813806,"Legacy, Marilyn",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Health Policy for Nursing,NUR,370,42396421,"Saltzberg, Christine",M1,NR LCC,NR LCC,10/14/2025,10/14/2025,05:10PM,08:00PM,,X,,,,,,LEO Lecturer I
+202610,Fall 2025,Health Policy for Nursing,NUR,370,42396421,"Saltzberg, Christine",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Health Policy for Nursing,NUR,370,42396421,"Saltzberg, Christine",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Health Policy for Nursing,NUR,370,42396421,"Saltzberg, Christine",W3,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Health Policy for Nursing,NUR,370,42396421,"Saltzberg, Christine",W4,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Health Policy for Nursing,NUR,370,42396421,"Saltzberg, Christine",W5,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Self-Care for Nurses,NUR,372,48993553,"Potter, Sarah",W4,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(l)
+202610,Fall 2025,Syn of Knowledge PN Practice,NUR,421,18515589,"Dalton, Harold",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Syn of Knowledge PN Practice,NUR,421,37061195,"Booth, Lorraine",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to SANE Adult/Adolescent,NUR,425,87671533,"Trajkovski, Meri",W1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I(l)
+202610,Fall 2025,Mentl Hlth Concerns Prac II,NUR,754,48328962,"Gutchak, Diane",M1,FLD,FLD,08/25/2025,12/05/2025,,,,,,,,,,"CLINICAL INSTRUCTOR, LEO Intermittent Lecturer"
+202610,Fall 2025,Mentl Hlth Concerns Prac II,NUR,754,48328962,"Gutchak, Diane",M2,FLD,FLD,08/25/2025,12/05/2025,,,,,,,,,,"CLINICAL INSTRUCTOR, LEO Intermittent Lecturer"
+202610,Fall 2025,Mentl Hlth Concerns Prac II,NUR,754,48328962,"Gutchak, Diane",M3,FLD,FLD,08/25/2025,12/05/2025,,,,,,,,,,"CLINICAL INSTRUCTOR, LEO Intermittent Lecturer"
+202610,Fall 2025,Kinesiology & Applied Anatomy,OTP,611,06996460,"Tolin, Liyongo",01,4155 WSW,4155 WSW,08/25/2025,12/05/2025,08:30AM,11:00AM,,,,,X,,,LEO Intermittent Lecturer(w)
+202610,Fall 2025,Intro to Philosophy,PHL,101,07976585,"Zuehlke, Joel",01,NR CHS,NR CHS,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to Philosophy,PHL,101,07976585,"Zuehlke, Joel",02,NR KHS,NR KHS,08/25/2025,12/05/2025,07:40AM,08:55AM,,X,,X,,,,LEO Lecturer II(w)
+202610,Fall 2025,Intro to Philosophy,PHL,101,91802420,"Wandmacher, Stevens",03,NR HESC,NR HESC,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Philosophy,PHL,101,91802420,"Wandmacher, Stevens",05,307 FH,307 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Philosophy,PHL,101,91802420,"Wandmacher, Stevens",06,307 FH,307 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Ethics,PHL,162,91802420,"Wandmacher, Stevens",01,355 FH,355 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,"Race, Gender and Sexuality",PHL,167,97232112,"Gawel, Lisa",01,351 FH,351 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Philosophy of Bioethics,PHL,168,07976585,"Zuehlke, Joel",01,NR CARM,NR CARM,08/25/2025,12/05/2025,07:40AM,08:55AM,X,,X,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Philosophy of Bioethics,PHL,168,97232112,"Gawel, Lisa",02,351 FH,351 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Philosophy of Bioethics,PHL,168,07976585,"Zuehlke, Joel",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Disabilities Studies,PHL,170,97232112,"Gawel, Lisa",01,558 FH,558 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer I(w)
+202610,Fall 2025,Intro to Feminist Theory,PHL,174,97232112,"Gawel, Lisa",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Intro to Logic,PHL,202,34966183,"Hatfield-Myers, Cody",01,307 FH,307 FH,08/25/2025,12/05/2025,04:00PM,05:15PM,,X,,X,,,,LEO Lecturer I(w)
+202610,Fall 2025,Philosophy of Language,PHL,325,34966183,"Hatfield-Myers, Cody",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Intro to Public Health,PHS,210,73337367,"Hilliker, Laurel",W1,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Public Health,PHS,210,73337367,"Hilliker, Laurel",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Public Health Statistics,PHS,247,98181608,"Sneed, Rodlescia",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Public Health Statistics,PHS,247,64599780,"Ekstrom, Andrew",W2,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,08:15PM,,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Profession Prep in Hlth Sci I,PHS,255,74705454,"Trevithick, Bruce",M1,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Conceptual PHY by Inquiry Meth,PHY,110,95395610,"Tarini, Laurence",01,169 MSB,169 MSB,08/25/2025,12/05/2025,09:50AM,12:15PM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,College Physics II,PHY,145,95395610,"Tarini, Laurence",01,155 MSB,155 MSB,08/25/2025,12/05/2025,02:30PM,04:40PM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Principles of Physics I,PHY,243,78023984,"Grafe, Alan",01,163 MSB,163 MSB,08/25/2025,12/05/2025,09:15AM,12:00PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Principles of Physics II,PHY,245,78023984,"Grafe, Alan",01,155 MSB,155 MSB,08/25/2025,12/05/2025,02:30PM,05:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,U.S. Nat Govt & Politics,POL,120,22048361,"Munroe, Derwin",02,NR GBHS,NR GBHS,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,U.S. Nat Govt & Politics,POL,120,22048361,"Munroe, Derwin",03,NR GBHS,NR GBHS,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Comparative Politics,POL,190,22048361,"Munroe, Derwin",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,International Relations,POL,230,22048361,"Munroe, Derwin",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,12:30PM,01:45PM,,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Internat Law & Organizations,POL,333,22048361,"Munroe, Derwin",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Principles of Psychology,PSY,100,85807106,"Juliao, Tracy",01,251 FH,251 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Principles of Psychology,PSY,100,85807106,"Juliao, Tracy",02,251 FH,251 FH,08/25/2025,12/05/2025,02:30PM,03:45PM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Principles of Psychology,PSY,100,81256544,"Rouleau, Amy",03,251 FH,251 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,,X,,X,,,,LEO Lecturer I(w)
+202610,Fall 2025,Principles of Psychology,PSY,100,39499262,"Smith, Amanda",04,251 FH,251 FH,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Principles of Psychology,PSY,100,81256544,"Rouleau, Amy",05, GBHS, GBHS,08/25/2025,12/05/2025,10:00AM,11:15AM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Principles of Psychology,PSY,100,81256544,"Rouleau, Amy",06, GBHS, GBHS,08/25/2025,12/05/2025,12:15PM,01:30PM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Principles of Psychology,PSY,100,34105925,"Billings, Nia",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Principles of Psychology,PSY,100,58560554,"Franks, Andrew",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Principles of Psychology,PSY,100,88839160,"Beddow, Michelle",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Principles of Psychology,PSY,100,81256544,"Rouleau, Amy",W4,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Principles of Psychology,PSY,100,58560554,"Franks, Andrew",W5,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Psychology of Sex,PSY,180,51060314,"Shattuck, Kraig",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Psychology Career Preparation,PSY,300,82838144,"Bellamy, Allen",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Psychology Career Preparation,PSY,300,23683878,"Sela, Yael",W5,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Psychopathology,PSY,309,85807106,"Juliao, Tracy",01,405 FH,405 FH,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Psychopathology,PSY,309,34105925,"Billings, Nia",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Psychopathology,PSY,309,39499262,"Smith, Amanda",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Developmental Psychology,PSY,313,39499262,"Smith, Amanda",01,302 MSB,302 MSB,08/25/2025,12/05/2025,10:00AM,11:15AM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Developmental Psychology,PSY,313,39499262,"Smith, Amanda",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Developmental Psychology,PSY,313,82838144,"Bellamy, Allen",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Developmental Psychology,PSY,313,82838144,"Bellamy, Allen",W3,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Developmental Psychology,PSY,313,82838144,"Bellamy, Allen",W4,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Survey of Social Psychology,PSY,315,88839160,"Beddow, Michelle",W2,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Cognitive Psychology,PSY,317,58560554,"Franks, Andrew",W2,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Principles of Research Design,PSY,319,27339773,"Lunge, Jenna",01,115 MSB,115 MSB,08/25/2025,12/05/2025,10:30AM,12:10PM,X,,X,,,,,LEO Lecturer III
+202610,Fall 2025,Principles of Research Design,PSY,319,51060314,"Shattuck, Kraig",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Basic Statistics & Probability,PSY,322,51857203,"Bedell, Karen",01,459 FH,459 FH,08/25/2025,12/05/2025,10:30AM,12:10PM,,X,,X,,,,LEO Lecturer IV
+202610,Fall 2025,Basic Statistics & Probability,PSY,322,51857203,"Bedell, Karen",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Basic Statistics & Probability,PSY,322,51857203,"Bedell, Karen",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Basic Statistics & Probability,PSY,322,51060314,"Shattuck, Kraig",W3,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Advanced Statistics,PSY,330,51857203,"Bedell, Karen",W1,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Psychology of Personality,PSY,336,49523947,"Taylor, Amanda",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Psychology of Personality,PSY,336,49523947,"Taylor, Amanda",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Neuropsychology,PSY,343,39499262,"Smith, Amanda",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Intro to Clinical Psychology,PSY,352,49523947,"Taylor, Amanda",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Individual Research,PSY,394,39499262,"Smith, Amanda",IS,RES,RES,08/25/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Advanced Topics in Psychology,PSY,400,49523947,"Taylor, Amanda",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Advanced Topics in Psychology,PSY,400,51857203,"Bedell, Karen",W4,NR OASYNC,NR OASYNC,08/25/2025,10/10/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Advanced Research,PSY,401,27339773,"Lunge, Jenna",01,329 FH,329 FH,08/25/2025,12/05/2025,10:30AM,12:10PM,,X,,X,,,,LEO Lecturer III
+202610,Fall 2025,Advanced Research,PSY,401,27339773,"Lunge, Jenna",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Budget & Finance in Pub Sector,PUB,518,22526677,"Stephens, Khalfani",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,06:45PM,,,X,,,,,LEO Lecturer I(l)
+202610,Fall 2025,BSRT Degree Adv Seminar,RSP,300,06771187,"Spaulding, Shane",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Quality Systms & Hlth Outcomes,RSP,340,06771187,"Spaulding, Shane",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Clinical Dosimetry,RTT,433,00329786,"Jarema, David",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,12:30PM,02:20PM,,,,X,,,,LEO Adjunct Lecturer(w)
+202610,Fall 2025,Problems of Substance Abuse,SAT,202,41710766,"Ashley, Ryan",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Adjunct Lecturer(w)
+202610,Fall 2025,Scientific Inquiry I,SCI,125,24101042,"Hart, Stephanie",01,486 MSB,486 MSB,08/25/2025,12/05/2025,09:00AM,11:20AM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Scientific Inquiry II,SCI,126,24101042,"Hart, Stephanie",01,486 MSB,486 MSB,08/25/2025,12/05/2025,02:00PM,04:20PM,,X,,X,,,,LEO Lecturer II
+202610,Fall 2025,Business Statistics,SCM,211,69116498,"Charara, Zaher",01,2301 RF,2301 RF,08/25/2025,12/05/2025,09:30AM,10:45AM,X,,X,,,,,LEO Lecturer III
+202610,Fall 2025,Intro to Business Analytics,SCM,313,81121633,"Alnaggar, Lina",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Intro to Business Analytics,SCM,313,81121633,"Alnaggar, Lina",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Intro to Business Analytics,SCM,313,81121633,"Alnaggar, Lina",W3,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Operations Management,SCM,371,69116498,"Charara, Zaher",F1,2307 RF,2307 RF,08/25/2025,12/05/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer III
+202610,Fall 2025,Operations Management,SCM,371,69116498,"Charara, Zaher",W1,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Operations Management,SCM,371,69116498,"Charara, Zaher",W2,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Six Sigma & Quality Management,SCM,381,69116498,"Charara, Zaher",F1,2307 RF,2307 RF,08/25/2025,12/05/2025,12:30PM,01:45PM,,X,,X,,,,LEO Lecturer III
+202610,Fall 2025,Global Supply Chain Management,SCM,391,22644499,"Lake, Daniel",F1,2301 RF,2301 RF,08/25/2025,12/05/2025,04:00PM,05:15PM,X,,X,,,,,LEO Lecturer IV
+202610,Fall 2025,Six Sigma & Quality Management,SCM,573,69116498,"Charara, Zaher",F1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer III
+202610,Fall 2025,Design of Experiments,SMT,400,69306138,"AbdulNour, Bashar",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Design of Experiments,SMT,515,69306138,"AbdulNour, Bashar",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Introduction to Sociology,SOC,100,46346073,"Girdwood, John",02,212 FH,212 FH,08/25/2025,12/05/2025,04:00PM,05:15PM,,X,,X,,,,LEO Adjunct Lecturer(w)
+202610,Fall 2025,Introduction to Sociology,SOC,100,13609782,"St George, Megan",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer I
+202610,Fall 2025,Intro to Social Research,SOC,210,13609782,"St George, Megan",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,General Statistics,SOC,215,13609782,"St George, Megan",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I
+202610,Fall 2025,Law and Society,SOC,485,40469996,"Spivack, Shelley",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Beginning Spanish I,SPN,111,44721852,"LeMieux, Jeanine",M1,561 FH,561 FH,08/25/2025,12/05/2025,11:00AM,12:15PM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Beginning Spanish I,SPN,111,44721852,"LeMieux, Jeanine",M2,558 FH,558 FH,08/25/2025,12/05/2025,12:30PM,01:45PM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Beginning Spanish I,SPN,111,62378049,"Knoll, Theresa",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Beginning Spanish II,SPN,112,62378049,"Knoll, Theresa",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Intermediate Spanish I,SPN,211,62378049,"Knoll, Theresa",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Preparing for the State Certif,SST,401,50156482,"Sayers, Harold",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Software Construction,SWE,325,92213534,"Chaaben, Amal",01,104 MSB,104 MSB,08/25/2025,12/05/2025,10:30AM,12:10PM,,X,,X,,,,LEO Lecturer III
+202610,Fall 2025,Introduction to Social Welfare,SWR,100,30298848,"Macias, Laura",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,06:45PM,,X,,,,,,LEO Lecturer II
+202610,Fall 2025,Introduction to Social Welfare,SWR,100,30298848,"Macias, Laura",W2,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,07:00PM,08:15PM,X,,,,,,,LEO Lecturer II
+202610,Fall 2025,Foundations in Social Welfare,SWR,230,36524388,"Hilliker, Bernadette",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to Data Analysis,SWR,270,70744385,"Collings, Amy",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,06:45PM,,,X,,,,,LEO Lecturer II
+202610,Fall 2025,Intro to Data Analysis,SWR,270,70744385,"Collings, Amy",W2,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,06:45PM,,X,,,,,,LEO Lecturer II
+202610,Fall 2025,Policy Practice and Advocacy,SWR,300,15569115,"Jones, Willie",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Intermittent Lecturer(w)
+202610,Fall 2025,Policy Practice and Advocacy,SWR,300,15569115,"Jones, Willie",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Intermittent Lecturer(w)
+202610,Fall 2025,Hum Behav in Soc Env: Micro,SWR,301,50970670,"Rossman, Caitlin",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,06:45PM,,,,X,,,,LEO Adjunct Lecturer(w)
+202610,Fall 2025,Hum Behav in Soc Env: Micro,SWR,301,50970670,"Rossman, Caitlin",W2,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,07:00PM,08:15PM,,,,X,,,,LEO Adjunct Lecturer(w)
+202610,Fall 2025,Hum Behav in Soc Env: Micro,SWR,301,50970670,"Rossman, Caitlin",W3,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,05:30PM,06:45PM,,,X,,,,,LEO Adjunct Lecturer(w)
+202610,Fall 2025,The Urban Context,SWR,304,53515149,"Womack, Todd",W1,NR OSYNC,NR OSYNC,08/25/2025,12/13/2025,09:30AM,10:45AM,,,,X,,,,LEO Adjunct Lecturer(w)
+202610,Fall 2025,Protective Services,SWR,330,97495093,"Vincent, Michele",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Intermittent Lecturer
+202610,Fall 2025,Mental Illness & Swk Practice,SWR,336,70744385,"Collings, Amy",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II
+202610,Fall 2025,Introduction to the Theatre,THE,100,67143886,"Borton, Lisa",W2,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Introduction to the Theatre,THE,100,67143886,"Borton, Lisa",W4,NR OASYNC,NR OASYNC,10/14/2025,12/05/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,Introduction to Theatre Design,THE,271,67143886,"Borton, Lisa",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer IV
+202610,Fall 2025,World Regional Geography,URP,115,14314512,"Green, Garry",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,Geography for Educators,URP,216,14314512,"Green, Garry",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer II(w)
+202610,Fall 2025,"Race, Gender and Sexuality",WGS,167,97232112,"Gawel, Lisa",01,351 FH,351 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,X,,X,,,,,LEO Lecturer I(w)
+202610,Fall 2025,Disabilities Studies,WGS,170,97232112,"Gawel, Lisa",01,558 FH,558 FH,08/25/2025,12/05/2025,09:30AM,10:45AM,,X,,X,,,,LEO Lecturer I(w)
+202610,Fall 2025,Intro to Feminist Theory,WGS,174,97232112,"Gawel, Lisa",W1,NR OASYNC,NR OASYNC,08/25/2025,12/13/2025,,,,,,,,,,LEO Lecturer I(w)
