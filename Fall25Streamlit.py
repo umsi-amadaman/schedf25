@@ -202,7 +202,22 @@ def show_flint():
         "FRI": "Fri",
         "SAT": "Sat",
         "SUN": "Sun",
-        "JOBCODE_DESCR": "Job Code Descr"
+        "JOBCODE_DESCR": "Job Code Descr",
+
+        # Fall 2026 export format — Flint switched to LEO_* prefixed columns
+        "TERM_CODE_KEY": "Term",
+        "TERM_DESC": "Term Descrshort",
+        "CAT_TITLE": "Crse Descr",
+        "SUBJ_CODE": "Subject",
+        "CRSE_NUMBER": "Catalog Nbr",
+        "SEQ_NUMBER_KEY": "Class Mtg Nbr",
+        "INSM_DESC": "Instruction Mode Descrshort",
+        "LEO_INSTRUCTOR_ID": "Instructor ID",
+        "LEO_INSTRUCTOR": "Class Instr Name",
+        "LEO_JOBCODE_DESCR": "Job Code Descr",
+        "MEETING_START_DATE_1": "Meeting Start Dt",
+        "MEETING_END_DATE_1": "Meeting End Dt",
+        "MEETING_TIMES_1": "Meeting Times",
     }
     raw.rename(columns=rename_map, inplace=True)
     
